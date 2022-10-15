@@ -14,11 +14,19 @@ dynamic. Static scanning involves checking the contents of a potentially malicio
 
 
 Why an Antivirus ?
-After a long period of planning and deciding  what language to  use and all that shennagins, i had finally decided to create an antivirus which is going to be windows only for now and going to be designed in the C# programming language. 
+
+After a long period of planning and deciding  what language to  use and all that shennagins, i had finally decided to create an antivirus which is going to be windows only for now and going to be designed in the C# programming language. I decided to make an AV because i found this topic really excting and intriging. I have  an Antivirus called Windows Defender  on my computer and was fascinated on how it reacts to malicous software.The way it quarantines malvare is executing is truly fascinating and better than all wonders in this world. I really want to follow this passion and will certainly make an attempt to follow this if any future opportunities arise.  
 
 
 
 Why C#?
 Because it is just amazing....
+
+
+Method of Detection
+
+. Signature based detection
+I am just learning how these things work so i decided to take baby steps by starting of from scratch. 
+
 
 
