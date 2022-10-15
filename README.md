@@ -26,7 +26,7 @@ Because it is just amazing....
 Method of Detection
 
 . Signature based detection
-I am just learning how these things work so i decided to take baby steps by starting of from scratch. 
+(I am just learning how these things work so i decided to take baby steps by starting of from scratch.)
 
 
 
